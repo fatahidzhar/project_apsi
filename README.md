@@ -9,7 +9,6 @@
 **Crud:** Create, Read, Update, Delete
 
 
-
 ## Which is used
 
 HTML, Laravel Liveware(PHP), Tailwindcss, JavaScript
