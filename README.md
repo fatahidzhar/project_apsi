@@ -12,6 +12,17 @@
 
 HTML, Laravel Liveware(PHP), Tailwindcss, JavaScript
 
+## UPDATE!!!! 24/12/2023
+
+**Frontend:**
+
+-   Update Dashboard page
+-   Change card membership color
+
+**BUG!!!:**
+
+-   Active link Navbar cuma di home belum disetting active untuk link yang dibuka
+
 ## UPDATE!!!! 23/12/2023
 
 **Frontend:**
@@ -31,4 +42,5 @@ HTML, Laravel Liveware(PHP), Tailwindcss, JavaScript
 -   Member index & page: Get from DB
 
 **BUG!!!:**
-- Active link Navbar cuma di home belum disetting active untuk link yang dibuka
+
+-   Active link Navbar cuma di home belum disetting active untuk link yang dibuka
