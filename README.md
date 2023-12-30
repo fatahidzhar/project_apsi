@@ -12,6 +12,17 @@
 
 HTML, Laravel Liveware(PHP), Tailwindcss, JavaScript
 
+## UPDATE!!!! 30/12/2023
+
+**Frontend:**
+
+-   Dashboard owner (/dashboard-owner)
+
+**BUG!!!:**
+
+-   Active link Navbar cuma di home belum disetting active untuk link yang dibuka
+-   Selesai user logout redirect ke index tapi banner carousell gak muncul
+
 ## UPDATE!!!! 24/12/2023
 
 **Frontend:**
