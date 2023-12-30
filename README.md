@@ -17,6 +17,7 @@ HTML, Laravel Liveware(PHP), Tailwindcss, JavaScript
 **Frontend:**
 
 -   Dashboard owner (/dashboard-owner)
+-   Dynamic data Dashboard owner
 
 **BUG!!!:**
 
