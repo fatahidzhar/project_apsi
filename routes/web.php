@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\Auth\AuthController;
 use App\Http\Controllers\BeritaController;
 use App\Http\Controllers\ObjectWisataController;
 use App\Livewire\ObjekWisata;
@@ -26,7 +27,7 @@ Route::view('dashboard', 'dashboard')
     ->name('dashboard');
 
 Route::view('admin/dashboard', 'livewire.admin');
-    // ->middleware(['auth', 'verified']);
+// ->middleware(['auth', 'verified']);
 
 Route::view('profile', 'profile')
     ->middleware(['auth'])
@@ -34,5 +35,7 @@ Route::view('profile', 'profile')
 
 Route::resource('admin/objectwisata', ObjectWisataController::class);
 Route::resource('admin/berita', BeritaController::class);
+
+// Route::view('loginowner', 'livewire.pages.auth.loginowner');
 
 require __DIR__ . '/auth.php';
